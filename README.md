@@ -113,3 +113,11 @@ A: If you really think it is, we can discuss how to improve it. But don't come t
 __Q: do you require signing of a contributor license agreement?__
 
 A: Yes, we do this to keep the ownership of Suricata in one hand: the Open Information Security Foundation. See http://suricata-ids.org/about/open-source/ and http://suricata-ids.org/about/contribution-agreement/
+
+
+### Supplementary
+
+Supplementary (also named as sup6tary) was forked from suricata mainstream for a practise to hide all "suricata" text of the original suricata project in run-time.  This is a personal practise for non-commercial use only.  If this is forbidden by the license of Suricata from the Open Information Security Foundation (OISF), please notify me what to do to protect the license.
+
+If anyone want to use Supplementary for commercial use, please follow the license of Suricata from the Open Information Security Foundation (OISF).
+
